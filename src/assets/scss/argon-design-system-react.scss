@@ -1,7 +1,7 @@
 /*!
 
 =========================================================
-* Argon Design System React - v1.1.0 based on Argon Design System - v1.0.1
+* Argon Design System React - v1.1.0 based on Argon Design System - v1.1.1
 =========================================================
 
 * Product Page: https://www.creative-tim.com/product/argon-design-system-react
@@ -16,15 +16,17 @@
 
 */
 
-// Custom components
+// Bootstrap Functions
+@import "../../../node_modules/bootstrap/scss/functions";
 
-@import "custom/dropdown.scss";
-@import "custom/mixins.scss";
-@import "custom/navbar.scss";
-@import "custom/popover.scss";
-@import "custom/separator.scss";
+// Theme Variables
+@import "argon-design-system/variables";
 
+// Bootstrap Core
+@import "../../../node_modules/bootstrap/scss/bootstrap";
 
-// Vendor
+// Theme Core
+@import "argon-design-system/theme";
 
-@import "custom/vendor/react-datetime.scss";
+// React Differences
+@import "react/react-differences";
