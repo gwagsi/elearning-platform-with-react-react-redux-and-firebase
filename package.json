@@ -1,11 +1,11 @@
 {
-  "name": "learning-pack",
+  "name": "argon-dashboard-react",
   "version": "1.1.0",
-  "description": "A Place To Master English",
+  "description": "React version of Argon Dashboard by Creative Tim",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gwagsi/elearning-platform-with-react-react-redux-and-firebase.git"
+    "url": "git+https://github.com/creativetimofficial/argon-dashboard-react.git"
   },
   "keywords": [
     "react",
@@ -17,12 +17,12 @@
     "argon-dashboard",
     "argon-dashboard-react"
   ],
-  "author": "Gwagsi Glenn",
+  "author": "Creative Tim",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gwagsi/elearning-platform-with-react-react-redux-and-firebase/issues"
+    "url": "https://github.com/creativetimofficial/argon-dashboard-react/issues"
   },
-  "homepage": "https://gwagsiglenn.com/",
+  "homepage": "https://demos.creative-tim.com/argon-dashboard-react/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
