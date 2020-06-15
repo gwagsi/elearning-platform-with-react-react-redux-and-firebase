@@ -1,11 +1,11 @@
 {
-  "name": "argon-dashboard-react",
+  "name": "learning-pack",
   "version": "1.1.0",
-  "description": "React version of Argon Dashboard by Creative Tim",
+  "description": "online class booking app with react",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/creativetimofficial/argon-dashboard-react.git"
+    "url": "git+https://github.com/gwagsi/elearning-platform-with-react-react-redux-and-firebase.git"
   },
   "keywords": [
     "react",
@@ -17,12 +17,12 @@
     "argon-dashboard",
     "argon-dashboard-react"
   ],
-  "author": "Creative Tim",
+  "author": "Gwagsi Glenn",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/creativetimofficial/argon-dashboard-react/issues"
+    "url": "https://github.com/gwagsi/elearning-platform-with-react-react-redux-and-firebase/issues"
   },
-  "homepage": "https://demos.creative-tim.com/argon-dashboard-react/",
+  "homepage": "gwagsig.com",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
