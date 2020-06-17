@@ -6,7 +6,14 @@ import Materials from "views/materials/index.js";
 import Messages from "views/messages/index.js";
 import Reservations from "views/reservations/index.js"
 
-var routes = [
+export const SIGN_UP = '/signup';
+export const SIGN_IN = '/signin';
+export const LANDING = '/';
+export const HOME = '/home';
+export const ACCOUNT = '/account';
+export const ADMIN = '/admin';
+export const PASSWORD_FORGET = '/pw-forget';
+const routes = [
   {
     path: "/index",
     name: "Dashboard",

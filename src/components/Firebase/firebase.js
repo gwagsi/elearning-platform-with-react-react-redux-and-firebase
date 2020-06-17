@@ -18,6 +18,8 @@ const config = {
       firebase.initializeApp(config);
   
       this.auth = firebase.auth();
+
+      
       this.db = firebase.database();
     }
   
